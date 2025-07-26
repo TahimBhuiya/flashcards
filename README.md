@@ -1,4 +1,4 @@
-# Flashcards! 
+# Flashcards Interactive App! 
 
 Submitted by: 
 
