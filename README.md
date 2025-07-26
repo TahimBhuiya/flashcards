@@ -1,16 +1,14 @@
-# Web Development Project 3 - *Flashcards! Part 2*
+# Flashcards! 
 
 Submitted by: 
 
 **Tahim Bhuiya**
 
-**Z23493520**
-
-This web app: **is a continuation of Flashcards! Part 1, where we chose pairs of items to store in a flashcard-like format that users can use to study, learn something new, or play a guessing game. In this continuation, I have added some imporvements to the functionality of our 'Fast Food Restaurant Quiz' app! I have added features that allow users to enter an answer (with exact or fuzzy matching) and move backwards and forwards through the list of cards as well as some other cool features.**
+This web app: **is one where we chose pairs of items to store in a flashcard-like format that users can use to study, learn something new, or play a guessing game. In this continuation, I have added some imporvements to the functionality of our 'Fast Food Restaurant Quiz' app! I have added features that allow users to enter an answer (with exact or fuzzy matching) and move backwards and forwards through the list of cards as well as some other cool features.**
 
 Time spent: **10** hours spent in total
 
-## Required Features
+## Features
 
 The following **required** functionality is completed:
 
@@ -19,7 +17,7 @@ The following **required** functionality is completed:
 - [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
 - [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
-The following **optional** features are implemented:
+The following **additional** features are implemented:
 
 - [x] **A shuffle button is used to randomize the order of the cards**
 - [x] **A user's answer may be counted as correct even when it is slightly different from the target answer**
